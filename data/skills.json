@@ -1,0 +1,8 @@
+{
+  "Programming Languages": ["Python", "Java", "C", "C++", "JavaScript", "TypeScript", "Go", "Rust"],
+  "AI/ML": ["Machine Learning", "Deep Learning", "NLP", "Natural Language Processing", "Computer Vision", "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV"],
+  "Data": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "SQL", "MySQL", "PostgreSQL", "MongoDB"],
+  "Web": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Flask", "Django", "FastAPI", "REST API", "REST APIs"],
+  "Tools": ["Git", "GitHub", "Docker", "Linux", "VS Code"],
+  "Cloud": ["AWS", "Azure", "Google Cloud", "GCP"]
+}

@@ -1,0 +1,22 @@
+Aarav Mehta
+Email: aarav.mehta@example.com | +91 9876543210
+LinkedIn: linkedin.com/in/aaravmehta | GitHub: github.com/aaravmehta
+
+SUMMARY
+B.Tech Computer Science student focused on Python, machine learning and data-driven applications.
+
+EDUCATION
+B.Tech in Computer Science and Engineering, 2027
+
+SKILLS
+Python, C++, SQL, Pandas, NumPy, Scikit-learn, Machine Learning, Git, GitHub, Flask, HTML, CSS
+
+PROJECTS
+Resume Classifier — Built a machine learning classifier with Python and Scikit-learn to categorize resumes.
+Campus Event Portal — Developed a Flask web application with SQL for event registration and management.
+
+EXPERIENCE
+Software Engineering Intern — Built Python utilities, worked with Git and improved data processing workflows.
+
+CERTIFICATIONS
+Python for Data Science
